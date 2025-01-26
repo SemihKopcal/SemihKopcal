@@ -1,13 +1,13 @@
-# 🌟 **Merhaba, Ben [Semih KOPCAL]!**  
+# 🌟 Hello I'm Semih KOPCAL  
 
-Ben Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim. Problem çözmeyi ve yenilikçi projeler geliştirmeyi seviyorum! 🚀
+I am a 3rd year student in Information Systems Engineering At Sakarya University. I love solving problems and developing innovative projects! 🚀
 
-I am a 3rd year student in Information Systems Engineering. I love solving problems and developing innovative projects! 🚀
+Ben Sakarya Üniversitesi Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim. Problem çözmeyi ve yenilikçi projeler geliştirmeyi seviyorum! 🚀
 
 ---
 
-## 🛠️ **Kullandığım Teknolojiler**
-### **Frontend Teknolojileri**
+## 🛠️ **Technologies and Frameworksr**
+### **Frontend Technologies**
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
@@ -16,7 +16,7 @@ I am a 3rd year student in Information Systems Engineering. I love solving probl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>
 </div>
 
-### **Backend Teknolojileri**
+### **Backend Technologies**
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="50" height="50"/>
@@ -24,7 +24,7 @@ I am a 3rd year student in Information Systems Engineering. I love solving probl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL" alt="MS SQL" width="50" height="50"/>
 </div>
 
-### **Diğer Teknolojiler**
+### **Other Technologies**
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
@@ -32,32 +32,26 @@ I am a 3rd year student in Information Systems Engineering. I love solving probl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="50" height="50"/>
-  <img src="https://seeklogo.com/images/I/insomnia-logo-A10DDAFE6F-seeklogo.com.png" title="Insomnia" alt="Insomnia" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="50" height="50"/>
 </div>
 
 ---
 
-## 📈 **GitHub İstatistiklerim**
+## 📈 **My GitHub Statistics**
 ### GitHub Readme Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SemihKopcal&show_icons=true&theme=radical)
 
-### Top Diller
+### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SemihKopcal&layout=compact&theme=radical)
 
-### GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SemihKopcal&theme=react-dark)
 
 ---
 
-
----
-
-## 📞 **Bana Ulaşın**
+## 📞 **Contact me**
 📧 **E-posta**: [semihkopcal1@gmail.com](mailto:semihkopcal1@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/semih-kopcal](https://tr.linkedin.com/in/semih-kopcal-a21851252)  
 📌 **GitHub**: [github.com/SemihKopcal](https://github.com/SemihKopcal)
 
 ---
 
-**💻 [Projelerime Göz Atın](https://github.com/SemihKopcal?tab=repositories)**  
+**💻 [Check Out My Projects](https://github.com/SemihKopcal?tab=repositories)**  
