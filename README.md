@@ -1,6 +1,7 @@
 # 🌟 **Merhaba, Ben [Semih KOPCAL]!**  
 
 Ben Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim. Problem çözmeyi ve yenilikçi projeler geliştirmeyi seviyorum! 🚀
+
 I am a 3rd year student in Information Systems Engineering. I love solving problems and developing innovative projects! 🚀
 
 ---
@@ -30,6 +31,9 @@ I am a 3rd year student in Information Systems Engineering. I love solving probl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
+  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="50" height="50"/>
+  <img src="https://seeklogo.com/images/I/insomnia-logo-A10DDAFE6F-seeklogo.com.png" title="Insomnia" alt="Insomnia" width="50" height="50"/>
 </div>
 
 ---
